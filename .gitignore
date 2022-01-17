@@ -1,3 +1,7 @@
 *.o
-*.out
 obj/
+*.my_test
+.vscode/
+
+initial-utilities/wcat/tests-out/
+initial-utilities/wcat/wcat
