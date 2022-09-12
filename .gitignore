@@ -2,6 +2,10 @@
 obj/
 *.my_test
 .vscode/
+tags
 
 initial-utilities/wcat/tests-out/
 initial-utilities/wcat/wcat
+
+processes-shell/tests-out/
+processes-shell/wish
